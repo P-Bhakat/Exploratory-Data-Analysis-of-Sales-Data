@@ -23,6 +23,16 @@ I conducted an in-depth exploratory data analysis (EDA) on an online sales datas
 
 ![image](https://github.com/user-attachments/assets/64216f61-e339-4010-9a47-29af192c5dee)
 ![image](https://github.com/user-attachments/assets/7d2b7b6b-fc6c-49a5-b6ed-fa4f352df707)
+#### States by Sales Amount:
+- The top graph shows the sales amount for various states.
+- Goa has the highest sales amount, significantly surpassing other states.
+- Bihar, Delhi, and Sikkim also have notable sales amounts.
+- Remember that high sales do not necessarily correlate with high profits.
+#### States by Profit:
+- The bottom graph displays the profit for each state.
+- Goa, despite having high sales, shows relatively low profit (possibly due to high costs).
+- States like Punjab, Kerala, and Gujarat have moderate profits.
+- One state appears to have negative profit (ensure further investigation).
 ![image](https://github.com/user-attachments/assets/441076fd-5b6a-4794-9b12-dd3acf331eda)
 
 #### Key Insights:
